@@ -1,1 +1,30 @@
+Lab 5 – RDS Shared Responsibility
 
+
+Services
+- Amazon RDS
+
+Task 1
+Start creating a MySQL database (do not launch if avoiding charges).
+Review the configuration screens.
+
+
+Objective
+Understand the responsibilities when using Amazon RDS.
+
+Task 2
+Identify which settings are managed by AWS.
+Examples:
+- Operating System
+- Database Software Installation
+- Hardware
+
+Task 3
+Identify which settings are managed by the customer.
+Examples:
+- Master Username
+- Master Password
+- Database Permissions
+- Encryption
+- Backups
+- Network Access
