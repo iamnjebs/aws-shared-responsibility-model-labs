@@ -1,1 +1,25 @@
+Lab 6 – Lambda Shared Responsibility
+
+
+Services
+- AWS Lambda
+
+
+Task 1
+- Create a Lambda function.
+Runtime
+- Python 3.x
+
+Task 2
+Review the automatically created IAM execution role.
+
+Task 3
+- Deploy a simple Hello World function.
+
+Task 4
+Identify customer responsibilities.
+Examples:
+- Application code
+- IAM Role
+- Environment Variables
 
