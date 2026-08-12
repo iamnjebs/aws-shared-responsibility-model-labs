@@ -1,1 +1,28 @@
+Lab 3 – Amazon S3 Security
+
+Services
+- Amazon S3
+Tasks
+Task 1
+Create an S3 bucket
+Bucket name
+- mzuca-shared-responsibility-demo
+
+Task 2
+- Upload a sample text document.
+
+Task 3
+Review:
+- Bucket Policy
+- Permissions
+- Block Public Access
+- Versioning
+- Encryption
+
+Task 4
+Enable:
+- Block Public Access
+- Server-Side Encryption
+- Versioning
+
 
