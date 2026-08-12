@@ -1,1 +1,9 @@
+Task 1 - Log in to the AWS Management Console.
 
+Task 2 - Open the following services:
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
+- AWS Lambda
+
+Observe that AWS provides the infrastructure while you configure the services.
