@@ -1,1 +1,28 @@
+Lab 2 – EC2 Security Responsibilities
 
+
+Services
+- Amazon EC2
+- IAM
+
+Task 1
+Launch an Amazon Linux EC2 instance using the Free Tier.
+
+
+Task 2
+
+- Security Group
+- Key Pair
+- IAM Role
+- Storage
+- Network
+
+Task 3
+
+Identify customer responsibilities when using Amazon EC2.
+Who is responsible for:
+- Installing software?
+- Updating the operating system?
+- Configuring the firewall?
+- Managing application security?
+- Encrypting sensitive application data?
