@@ -1,1 +1,29 @@
+Lab 4 – IAM Responsibilities
 
+Services
+- IAM
+
+
+Task 1
+Create an IAM User.
+- student01
+
+Task 2
+Create an IAM Group.
+- Students
+
+Task 3
+Attach
+- ReadOnlyAccess
+
+Task 4
+- Add the user to the group
+
+Task 5
+Enable MFA for the user.
+Validation
+Verify:
+- User created
+- Group created
+- Policy attached
+- MFA enabled
